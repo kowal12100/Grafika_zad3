@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+c:\users\kamil\desktop\grafika\zadanie 1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(43): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kamil\desktop\grafika\zadanie 1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(146): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\kamil\desktop\grafika\zadanie 1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(151): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\kamil\desktop\grafika\zadanie 1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(212): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kamil\desktop\grafika\zadanie 1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(214): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kamil\desktop\grafika\zadanie 1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(216): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kamil\desktop\grafika\zadanie 1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kamil\desktop\grafika\zadanie 1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(329): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  ConsoleApplication1.vcxproj -> C:\Users\Kamil\Desktop\Grafika\Zadanie 1\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Kamil\Desktop\Grafika\Zadanie 1\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
